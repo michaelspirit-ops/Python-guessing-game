@@ -26,6 +26,27 @@ How to Run
    
    If that doesn't work on your system, try "python3 guessing_game.py".
 
+Example gameplay
+
+Welcome to the Number Guessing Game
+
+Choose difficulty:
+1.Easy 2.Medium 3.Hard
+
+Pick 1, 2 or 3: 1
+
+You have 7 attempts to guess the number between 1 and 20
+
+Guess a number: 3
+You are very close
+
+Guess a number: 8
+That's correct!
+You used 2 attempts to guess the number
+
+Do you want to play again?(yes/no): no
+Thanks for playing
+
 What I Learned
 This project helped me practise variables, loops, conditionals, dictionaries, functions, and organizing Python code.
 
