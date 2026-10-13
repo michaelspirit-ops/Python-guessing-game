@@ -6,6 +6,7 @@ Features
 - Multiple difficulty levels
 - Random number generation
 - User input and conditional logic
+- Error handling
 - Loops and dictionaries
 - Replay functionality
 
